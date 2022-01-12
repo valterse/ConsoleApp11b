@@ -10,7 +10,8 @@ namespace ConsoleApp11b
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("zdarova no valtera\n")
+            Console.WriteLine("zdarova no valtera\n");
+            Console.WriteLine("zdarova no tavas mammas boyfrienda\n");
         }
     }
 }
